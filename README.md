@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Final Product](./screenshot.jpg](https://github.com/alemolina43/qr-component/blob/main/images/image-qr-code.png)
+![Final Product](./images/image-qr-code.png)
 
 ### Links
 
